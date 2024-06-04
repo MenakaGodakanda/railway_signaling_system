@@ -73,6 +73,7 @@ make
 ```
 
 The output should display the following: <br><br>
+![Screenshot 2024-06-04 135752](https://github.com/MenakaGodakanda/railway_signaling_system/assets/156875412/d338fda7-c56f-4136-8c88-66e2cb6a3e9a)
 
 The output simulates the movement of a train along a railway track and the concurrent updating of signals by the signaling system to ensure safe operation. This output is typical of a real-time distributed system simulation, where multiple components (trains and signaling system) interact to achieve a specific goal (safe and efficient train operation).
 
